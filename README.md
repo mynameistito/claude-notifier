@@ -1,6 +1,6 @@
 # claude-notifier
 
-> [!WARNING]
+> [!TIP]
 > Migrated to using this [mylee04/code-notify](https://github.com/mylee04/code-notify)
 
 A lightweight Windows utility that plays audible notifications when Claude Code needs your attention. Uses a 3-note console beep chime — no external dependencies or sound files required.
